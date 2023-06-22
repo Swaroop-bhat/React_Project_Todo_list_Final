@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Project_Todo_list_Final/static/css/main.dffa8aeb.css",
+    "main.js": "/React_Project_Todo_list_Final/static/js/main.f13b4064.js",
+    "index.html": "/React_Project_Todo_list_Final/index.html",
+    "main.dffa8aeb.css.map": "/React_Project_Todo_list_Final/static/css/main.dffa8aeb.css.map",
+    "main.f13b4064.js.map": "/React_Project_Todo_list_Final/static/js/main.f13b4064.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dffa8aeb.css",
+    "static/js/main.f13b4064.js"
+  ]
+}
